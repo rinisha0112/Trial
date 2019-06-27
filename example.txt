@@ -1,1 +1,2 @@
-1. Hii! This is an Example ! 
+1. Hii! This is an Example !
+2. Trying to modify when file is already staged
